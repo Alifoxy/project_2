@@ -1,0 +1,47 @@
+.main_2 {
+    display: flex;
+    width: 800px;
+    height: 340px;
+    justify-content: space-between;
+    align-items: center;
+    row-gap: 40px;
+    font-family: "Calibri Light", sans-serif ;
+
+}
+
+.card2 {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    background: azure;
+    box-sizing: border-box;
+    width: 250px;
+    height: 300px;
+    padding: 40px;
+    border-radius: 30px;
+    border-style: dashed;
+    border-width: 3px ;
+    border-color: lightpink;
+}
+
+.name{
+    font-size: 18px;
+    color: darkorange;
+    text-align: center;
+}
+.text{
+    font-size: 16px;
+    color: coral;
+    text-align: center;
+}
+
+.button{
+    font-size: 18px;
+    color: deeppink ;
+    text-align: center;
+    border-style: solid;
+    border-width: 2px ;
+    border-color: hotpink;
+    padding: 15px;
+}

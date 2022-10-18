@@ -1,4 +1,4 @@
-.main {
+.main_1 {
     width: 800px;
     font-family: "Bahnschrift", sans-serif ;
     font-size: 25px;
@@ -35,6 +35,8 @@
      padding: 30px;
      border-radius: 30px;
  }
+
+
 
  .p3 {
      height: 500px;
